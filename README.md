@@ -1,5 +1,5 @@
 # tankbags
-**chrismac portfolio and linux testing** | checks
+**chrismac portfolio and linux testing** |
 
 
 Canadian designer, traveler, farmer, freelancer, and author.
