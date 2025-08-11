@@ -4,6 +4,8 @@ title: TankBags
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 minima:
   skin: dark # Or auto if you want it to switch with your system settings.
 hide_site_feed_link: true
