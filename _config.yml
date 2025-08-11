@@ -1,9 +1,6 @@
 # In _config.yml
 
 title: TankBags
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
 minima:
   skin: dark # Or auto if you want it to switch with your system settings.
 hide_site_feed_link: true
