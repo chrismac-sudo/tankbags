@@ -1,1 +1,7 @@
-
+theme: minima
+remote_theme: jekyll/minima
+plugins:
+Whatever else was already here...
+- jekyll-remote theme
+minima:
+skin: auto # If you want it to switch with your system settings.
