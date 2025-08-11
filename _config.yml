@@ -1,5 +1,5 @@
 # In _config.yml
-# theme: minima
+theme: minima
 title: TankBags
 remote_theme: jekyll/minima
 plugins:
