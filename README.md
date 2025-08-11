@@ -1,13 +1,13 @@
 
 
-### **chrismac portfolio and linux testing**
+**chrismac portfolio and linux testing**
 
 
 <img width="328" height="328"  alt="TankBags" src="https://github.com/user-attachments/assets/992ea3bb-01c7-4e9c-93e0-213b961a448e" />
 
 
 
-## Canadian designer, traveler, farmer, freelancer, and author.
+### Canadian designer, traveler, farmer, freelancer, and author.
 
 From 2017 through 2018 _Chris MacLuckie_ rode his Morgan mare Roxy on a [375-day solo expedition](https://5000milesofhope.org/) from Canada to Guatemala, then once again back to Central Mexico in 2019.
 
