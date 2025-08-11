@@ -1,8 +1,4 @@
 
-**chrismac portfolio and linux testing** 
-
-
-
 <img width="328" height="328"  alt="TankBags" src="https://github.com/user-attachments/assets/992ea3bb-01c7-4e9c-93e0-213b961a448e" />
 
 
