@@ -9,3 +9,7 @@ From 2017 through 2018 _Chris MacLuckie_ rode his Morgan mare Roxy on a 375-day 
 After several years of working as an English Second Language Teacher and freelancing online, Chris and Roxy returned to Canada to be closer to their roots.
 
 As of 2024, Chris keeps busy designing and developing horse bags and travel gear that embodies the holy triad criteria of solo horse travel gear: comfortable, lightweight, and durable.
+      
+<img width="828" height="828" alt="Round Photo_Aug142024_090358" src="https://github.com/user-attachments/assets/992ea3bb-01c7-4e9c-93e0-213b961a448e" />
+
+							
