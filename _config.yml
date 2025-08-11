@@ -6,5 +6,11 @@ plugins:
 minima:
   skin: dark # Or auto if you want it to switch with your system settings.
 hide_site_feed_link: true
-
+social_links:
+title: tankbags repository at GitHub
+icon: github
+url: "https://github.com/chrismac-sudo/tankbags"
+title: Jekyll at X (formerly Twitter)
+icon: x-twitter
+url: "https://tankbags.ca"
 
